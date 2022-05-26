@@ -1,0 +1,23 @@
+#button {
+    height: 25px;
+    width: 50px;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+}
+
+#lunatic_cultist {
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+    opacity: 0%;
+}
+
+#fireball1, #fireball2, #fireball3, #fireball4 {
+    position: absolute;
+    opacity: 0%;
+}
+
+#mysterious_tablet {
+    opacity: 0%;
+}
